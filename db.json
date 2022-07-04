@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alonso Barrios Urrego",
+      "empresa": "JABU SOFT",
+      "email": "jabu@jabu.web",
+      "telefono": "3116123085",
+      "notas": "Registro de prueba...",
+      "id": 1
+    },
+    {
+      "nombre": "Rocio Urrego Salazar",
+      "empresa": "UTCH",
+      "email": "roursa10@hotmail.co",
+      "telefono": "3147905919",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "Carolina Barrios",
+      "empresa": "Fundación EPM",
+      "email": "lcbarriou@gmail.com",
+      "telefono": "3105340287",
+      "notas": "...",
+      "id": 4
+    }
+  ]
+}
